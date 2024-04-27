@@ -22,7 +22,7 @@ The objectives are to:
 
 NAME : Sanchit Pal Singh
 
-BATCH: MDE086
+BATCH: MDE087
 
 DOMAIN : DATA SCIENCE
 
